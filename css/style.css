@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HghKFI4LDArKKQ1FhNqzrxmVt5xppfZs0g&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+#navbar {
+    padding: 0 150px;
+}
+
+.nav-link {
+    padding: 0 50px;
+}
+
+.logo {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+#home {
+    padding: 200px 150px;
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+}
+
+h1{
+    padding-bottom: 20px;
+}
